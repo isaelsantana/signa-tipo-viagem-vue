@@ -1,0 +1,4 @@
+[0910/164048.173:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0910/164048.178:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0910/164048.178:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0910/164048.180:ERROR:exception_snapshot_win.cc(100)] thread ID 5520 not found in process
